@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="food_item">
+        <item>Other</item>
+        <item>Rasagulla</item>
+        <item>GulabJamun</item>
+        <item>Panipuri</item>
+        <item>Momos</item>
+    </string-array>
+</resources>
